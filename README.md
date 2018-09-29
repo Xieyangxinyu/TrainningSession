@@ -62,7 +62,9 @@ UVa 10954 - Add All
 
 Intro to Data Structure
 -----------------------------------------------------------------------------------------
-Adjacency List UVa 10895 - Matrix Transpose UVa 10507 - Waking up brain
+Adjacency List
+UVa 10895 - Matrix Transpose
+UVa 10507 - Waking up brain
 
 Union Find Disjoint Sets 
 UVa 01197 - The Suspects
@@ -70,5 +72,7 @@ UVa 00599 - The Forrest for the Trees
 UVa 10608 - Friends
 
 Tree-related Data Structures 
-UVa 00297 - Quadtrees UVa 01232 - SKYLINE UVa 11235 - Frequent Values
+UVa 00297 - Quadtrees
+UVa 01232 - SKYLINE
+UVa 11235 - Frequent Values
 UVa 11402 - Ahoy, Pirates
