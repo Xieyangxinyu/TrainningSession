@@ -69,6 +69,8 @@ UVa 01197 - The Suspects
 UVa 00599 - The Forrest for the Trees
 UVa 10608 - Friends
 
-Tree-related Data Structures 
-UVa 00297 - Quadtrees UVa 01232 - SKYLINE UVa 11235 - Frequent Values
-UVa 11402 - Ahoy, Pirates
+
+Greedy
+-----------------------------------------------------------------------------------------
+Classical & Involving Sorting
+UVa 410 - Station Balance
