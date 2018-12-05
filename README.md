@@ -107,6 +107,10 @@ Classical & Involving Sorting
 
 UVa 410 - Station Balance
 
+Non Classical
+
+UVa 10714 - Ants
+
 Ad Hoc
 -----------------------------------------------------------------------------------------
 Two Way Scanning
