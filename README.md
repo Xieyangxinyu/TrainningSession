@@ -27,9 +27,11 @@ STL - Sort & Permutation
 
   - UVa 10057 - A mid-summer night ...
 
-  - Use Sort to Simplify the Problem
+### Use Sort to Simplify the Problem
 
   - UVa 11824 - A Minimum Land Price
+  
+  - UVa 1149 - Bin Packing
 
 ### Prev Permutation and Next Permutation
 
@@ -116,3 +118,8 @@ Ad Hoc
 ### Two Way Scanning
 
   - UVa 1442 - Cav
+
+Dynamic Programming
+-----------------------------------------------------------------------------------------
+### DAG
+  - UVa 437 - The Tower of Babylon
