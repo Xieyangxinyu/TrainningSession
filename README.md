@@ -118,8 +118,12 @@ Ad Hoc
 ### Two Way Scanning
 
   - UVa 1442 - Cav
+  
+  - UVa 1610 - Party Games
 
 Dynamic Programming
 -----------------------------------------------------------------------------------------
 ### DAG
   - UVa 437 - The Tower of Babylon
+  
+  - UVa 1347 - Tour
