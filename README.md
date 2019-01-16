@@ -119,7 +119,11 @@ Ad Hoc
 
   - UVa 1442 - Cav
   
+### Edge Cases
+  
   - UVa 1610 - Party Games
+  
+  - UVa 12545 - Bits Equalizer
 
 Dynamic Programming
 -----------------------------------------------------------------------------------------
@@ -127,3 +131,6 @@ Dynamic Programming
   - UVa 437 - The Tower of Babylon
   
   - UVa 1347 - Tour
+
+### 0-1 Knapsack
+- UVa 12563 - Jin Ge Jin Qu hao
