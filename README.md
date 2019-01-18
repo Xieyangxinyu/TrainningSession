@@ -32,6 +32,8 @@ STL - Sort & Permutation
   - UVa 11824 - A Minimum Land Price
   
   - UVa 1149 - Bin Packing
+  
+  - UVa 11039 - Building designing
 
 ### Prev Permutation and Next Permutation
 
@@ -49,6 +51,8 @@ Lists, Stacks & Queues
 ### C++ STL stack (Java Stack)
 
   - UVa 00732 - Anagram by Stack
+  
+  - UVa 11491 - Erasing and Winning
 
 ### C++ STL queue and deque (Java Queue and Deque)
 
@@ -134,3 +138,8 @@ Dynamic Programming
 
 ### 0-1 Knapsack
 - UVa 12563 - Jin Ge Jin Qu hao
+
+Mathematics
+-----------------------------------------------------------------------------------------
+### Logarithm, Exponentiation, Power
+  - UVa 11636 - Hello World!
