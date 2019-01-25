@@ -128,6 +128,10 @@ Ad Hoc
   - UVa 1610 - Party Games
   
   - UVa 12545 - Bits Equalizer
+  
+  ### Tricky swaps
+  
+  - UVa 1611 - Crane
 
 Dynamic Programming
 -----------------------------------------------------------------------------------------
@@ -137,9 +141,17 @@ Dynamic Programming
   - UVa 1347 - Tour
 
 ### 0-1 Knapsack
+
 - UVa 12563 - Jin Ge Jin Qu hao
+
+### Max 1D Range Sum
+
+- UVa 11400 - Lighting System Design
+
+- UVa 11584 - Partitioning by Palindromes
 
 Mathematics
 -----------------------------------------------------------------------------------------
 ### Logarithm, Exponentiation, Power
+
   - UVa 11636 - Hello World!
