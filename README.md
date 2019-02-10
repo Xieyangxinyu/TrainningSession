@@ -112,6 +112,8 @@ Greedy
 ### Classical & Involving Sorting
 
   - UVa 410 - Station Balance
+  
+  - UVa 10020 - Minimal coverage
 
 ### Non Classical
 
